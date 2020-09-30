@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{15D4C6CA-7C28-9721-D1B1-99A858786DA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gameplay/LevelBuilder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gameplay/HUD.cs" Line="18" Column="53" />
+      <File FileName="Assets/Scripts/Gameplay/Blocks/StandardBlock.cs" Line="10" Column="62" />
+      <File FileName="Assets/Scripts/Configuration/ConfigurationData.cs" Line="129" Column="34" />
+      <File FileName="Assets/Scripts/Configuration/ConfigurationUtils.cs" Line="111" Column="1" />
+      <File FileName="Assets/Scripts/Gameplay/BallSpawner.cs" Line="56" Column="60" />
+      <File FileName="Assets/Scripts/Gameplay/Ball.cs" Line="58" Column="37" />
+      <File FileName="Assets/Scripts/Gameplay/LevelBuilder.cs" Line="72" Column="63" />
+      <File FileName="Assets/Scripts/Utils/ScreenUtils.cs" Line="60" Column="1" />
+      <File FileName="Assets/Scripts/Gameplay/Blocks/BonusBlock.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/Gameplay/Blocks/PickupBlock.cs" Line="12" Column="31" />
+      <File FileName="Assets/Scripts/Gameplay/Blocks/PickupEffect.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WackyBreakout" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Configuration" expanded="True" />
+                <Node name="Gameplay" expanded="True">
+                  <Node name="Blocks" expanded="True" />
+                  <Node name="LevelBuilder.cs" selected="True" />
+                </Node>
+                <Node name="Utils" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="748e3356-eabf-4a8a-a4fe-8bc3ef3c388f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
